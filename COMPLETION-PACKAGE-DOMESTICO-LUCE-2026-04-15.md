@@ -52,6 +52,7 @@ Questi punti risultano nel repo come manutenzione evolutiva o packaging ulterior
 - master doc: `MACRO/domestico-luce-master-2026-04-15.md`
 - capability map: `MACRO/domestico-luce-capability-map.md`
 - boundary note: `MACRO/domestico-luce-boundary-vs-flussi.md`
+- operations roadmap: `ROADMAP-DOMESTICO-LUCE-POST-BASELINE-OPERATIONS.md`
 - roadmap di copertura: `ROADMAP-DOMESTICO-LUCE-2026-04-15.md`
 - registro stato operativo: `INDEX.md`
 - registro questioni: `OPEN-QUESTIONS.md`

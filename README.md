@@ -11,6 +11,7 @@ Al `2026-04-15` il pacchetto `domestico luce` è chiuso al boundary SSOT.
 Entry point consigliati:
 - [INDEX.md](INDEX.md)
 - [COMPLETION-PACKAGE-DOMESTICO-LUCE-2026-04-15.md](COMPLETION-PACKAGE-DOMESTICO-LUCE-2026-04-15.md)
+- [ROADMAP-DOMESTICO-LUCE-POST-BASELINE-OPERATIONS.md](ROADMAP-DOMESTICO-LUCE-POST-BASELINE-OPERATIONS.md)
 - [MACRO/domestico-luce-master-2026-04-15.md](MACRO/domestico-luce-master-2026-04-15.md)
 - [MACRO/domestico-luce-capability-map.md](MACRO/domestico-luce-capability-map.md)
 - [MACRO/domestico-luce-boundary-vs-flussi.md](MACRO/domestico-luce-boundary-vs-flussi.md)
@@ -50,6 +51,7 @@ Entry point consigliati:
 - non è ancora una process architecture completa `ERP-ready`
 - non è ancora una raccolta completa di BPMN, state machine o mapping profondo di tutti i messaggi `SII`
 - per questo confine vedi `MACRO/domestico-luce-boundary-vs-flussi.md`
+- per il backlog operativo successivo vedi `ROADMAP-DOMESTICO-LUCE-POST-BASELINE-OPERATIONS.md`
 
 ## Standard modello
 Per questo workstream usare GPT-5.4 con reasoning xhigh.

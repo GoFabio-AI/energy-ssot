@@ -5,6 +5,7 @@ Snapshot strutturale: 2026-04-15
 ## Navigazione rapida
 - [README.md](README.md)
 - [ROADMAP-DOMESTICO-LUCE-2026-04-15.md](ROADMAP-DOMESTICO-LUCE-2026-04-15.md)
+- [ROADMAP-DOMESTICO-LUCE-POST-BASELINE-OPERATIONS.md](ROADMAP-DOMESTICO-LUCE-POST-BASELINE-OPERATIONS.md)
 - [COMPLETION-PACKAGE-DOMESTICO-LUCE-2026-04-15.md](COMPLETION-PACKAGE-DOMESTICO-LUCE-2026-04-15.md)
 - [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md)
 - [GLOSSARIO.md](GLOSSARIO.md)
@@ -70,6 +71,10 @@ Snapshot strutturale: 2026-04-15
 
 ## Questioni aperte da seguire subito
 - nessuna open question SSOT prioritaria residua sul baseline domestico luce al `2026-04-15`; restano solo monitoraggio ordinario di futuri atti, consolidati ufficiali e manutenzioni editoriali del repo
+
+## Backlog operativo post-baseline
+- i gap residui seri non stanno più nel baseline SSOT ma nel layer `operational depth`, ora esplicitato in [ROADMAP-DOMESTICO-LUCE-POST-BASELINE-OPERATIONS.md](ROADMAP-DOMESTICO-LUCE-POST-BASELINE-OPERATIONS.md)
+- priorità già registrate: flow catalog end-to-end, state machine processi core, mapping profondo `SII`, layer `PDO / PDO2G / misura avanzata`, handoff `ERP-ready` e decision tables prodotto/ops
 
 ## Chiusure recenti rilevanti
 - Il boundary minimo del dispacciamento nel libero domestico lato cliente è ora chiuso tramite `RULE-EE-DISP-004`, `RULE-EE-PRC-011` e `RULE-EE-PRC-012`.
