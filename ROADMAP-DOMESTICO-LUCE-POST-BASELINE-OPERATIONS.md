@@ -18,6 +18,15 @@ In altre parole, questo file elenca i gap residui seri che non negano la chiusur
 - Significa che il repo non ha ancora trasformato il SSOT in un layer completo di flussi, stati, tracciati, eccezioni o artefatti implementativi.
 - Le nuove aggiunte a questo layer devono sempre referenziare `DOMAINS/`, `RULES/`, `EXTRACTED/` e `CITATIONS/`, senza reinventare le regole.
 
+## Regole metodologiche critiche per il layer SII / processi
+- Non basta prendere un PDF utile o parseabile: per ogni processo va cercata prima la sezione `Documenti in vigore` della pagina ufficiale SII o AU pertinente.
+- La selezione della fonte deve privilegiare la **versione vigente più recente** della famiglia documentale corretta, non una versione storica solo perché facile da estrarre.
+- La regola non è `PDF-first` in senso dogmatico ma `official-source-first`: usare PDF, HTML o pagina normativa ufficiale a seconda di quale sia la fonte migliore e più aggiornata per quel fatto.
+- Su una singola pagina SII spesso esistono più documenti utili nello stesso tempo: documento di funzionamento del processo, specifiche tecniche, allegati `All.A` o `All.B`, guida `PdC`, OpenAPI o WSDL, errata o EC. Non va scelto un singolo file a caso.
+- Per ogni processo SII va modellato un **document set** minimo, distinguendo almeno tra: documento core di processo, allegati strutturali o codifiche, interfacce o tracciati, supporti operativi o di utilizzo.
+- Le versioni precedenti vanno trattate come storico o superseded, non come baseline attiva, salvo uso esplicito per diff o retrospettiva.
+- Ogni ingestione deve registrare almeno: famiglia documentale, ruolo del file nel processo, versione, data, URL, motivo della scelta e verifica che sia o meno l'ultima versione vigente visibile.
+
 ## Stato complessivo
 - baseline `domestico luce`: **chiuso al boundary SSOT**
 - operational depth / flows layer: **non ancora coperto in modo completo**
@@ -75,11 +84,13 @@ Approfondire il layer processuale e tecnico `SII` oltre il boundary già chiuso 
 - compatibilità/incompatibilità tra pratiche
 - eventi di aggiornamento `RCU`
 - mapping riusabile per ERP e automazioni
+- ricostruzione del `document set` vigente per ciascun processo, non solo del PDF principale
 
 #### Deliverable atteso
 - matrice processi `SII`
 - matrice esiti/scarti/precedenze
 - note operative separate dal SSOT normativo
+- registro per processo di `documenti in vigore` con classificazione `core / allegato / interfaccia / supporto operativo`
 
 ### WS3. POD / PDO / 2G / metering depth
 #### Obiettivo
