@@ -88,6 +88,7 @@ Raccogliere il quadro regolatorio primario e il supporto operativo ufficiale per
 - Sempre secondo l'Atlante ARERA, il cliente presenta il subentro al venditore prescelto, che inoltra la richiesta di attivazione al distributore entro 2 giorni lavorativi; il distributore deve poi attivare entro 5 giorni lavorativi e, se ritarda, il cliente ha diritto a un indennizzo automatico.
 - Nel processo VS del RCU il distributore comunica gli esiti positivi di nuove connessioni, attivazioni e disattivazioni; le attivazioni comprendono i subentri.
 - Il distributore comunica gli esiti VS entro 2 giorni lavorativi dall'esecuzione e il SII aggiorna il RCU entro 1 giorno lavorativo, notificando la nuova attivazione alla controparte commerciale.
+- Dopo la notifica di attivazione del POD, l'UDD deve completare entro 3 giorni l'integrazione dei dati RCU di propria competenza; se il flusso VS2 non viene inviato, la CC abbinata deve trasmettere i dati tramite AE1.0050.
 - Nel processo centralizzato AV lo stato del POD passa da disattivo ad attivo solo dopo esito positivo trasmesso dal distributore tramite AV2.0250.
 - Nel processo centralizzato DS lo stato del POD passa a disattivo solo dopo esito positivo trasmesso dal distributore tramite DS2.0250.
 - Quando una disattivazione è prossima all'esecuzione, il SII blocca o annulla pratiche che modifichino cliente finale, CC o UDD se temporalmente incompatibili.
@@ -155,6 +156,8 @@ Raccogliere il quadro regolatorio primario e il supporto operativo ufficiale per
 - RULE-EE-VOL-024
 - RULE-EE-VOL-025
 - RULE-EE-VOL-026
+- RULE-EE-RCU-004
+- RULE-EE-RCU-005
 - RULE-EE-SWI-003
 - RULE-EE-TIF-005
 - RULE-EE-TIF-006

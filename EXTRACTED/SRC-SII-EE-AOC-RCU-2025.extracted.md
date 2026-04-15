@@ -14,7 +14,8 @@
 4. Il distributore comunica tali esiti entro 2 giorni lavorativi dall'esecuzione della prestazione tramite il servizio VS1.
 5. Per ciascun punto per cui è stata eseguita nuova connessione, attivazione o disattivazione, la comunicazione deve includere almeno POD, identificativi cliente, UDD/EMT richiedente, prestazione eseguita e data di esecuzione.
 6. Verificata l'ammissibilità dei flussi VS1, il SII aggiorna il RCU entro 1 giorno lavorativo e notifica alla controparte commerciale la nuova attivazione tramite VS2.0200.
-7. Entro 3 giorni dalla notifica di attivazione del POD, l'UDD aggiorna i dati costituenti il RCU di propria competenza tramite VS2.0201; in mancanza, la CC abbinata è tenuta a inviarli tramite AE1.0050.
+7. Entro 3 giorni dalla notifica di attivazione del POD, ciascun UDD aggiorna tramite VS2.0201 i dati costituenti il RCU di propria competenza definiti nell'Allegato A alla deliberazione 628/2015/R/eel.
+8. In caso di assenza di abbinamento POD-venditore, l'UDD opera come CC sul punto fino al successivo abbinamento; se i dati non vengono inviati tramite VS2, la CC abbinata al punto è tenuta a trasmetterli tramite AE1.0050.
 
 ## Citazioni utili
 - p. 1: "SPECIFICHE TECNICHE AGGIORNAMENTO ON CONDITION RCU"
@@ -27,8 +28,11 @@
 - p. 18: "per ciascun punto di prelievo per il quale è stata eseguita una richiesta di nuova connessione, attivazione o disattivazione della fornitura"
 - p. 19: "entro 1 giorno lavorativo, aggiorna il RCU e notifica alla controparte commerciale la nuova attivazione"
 - p. 19: "Entro 3 giorni dalla notifica di attivazione del POD, ciascun UDD è tenuto ad aggiornare i dati costituenti il RCU di propria competenza"
+- p. 19: "In caso di assenza di abbinamento POD-Venditore, l’Utente del Dispacciamento, in qualità di CC sul punto fino al successivo abbinamento, effettua la trasmissione dei dati"
+- p. 19: "Nel caso in cui i dati non vengano inviati tramite il flusso VS2 la CC abbinata al punto è tenuta a inviare gli stessi tramite il flusso AE1.0050"
 
 ## Uso nel SSOT
 - base quasi-ufficiale per gli stati di inizio/fine fornitura registrati nel RCU
 - utile per raccordare subentro, attivazione e disattivazione con i flussi VS/VS2/AE1
 - chiarisce i tempi di popolamento del RCU dopo l'esecuzione tecnica della prestazione
+- chiude anche il passaggio post-attivazione tra notifica VS2.0200, integrazione UDD via VS2.0201 e fallback AE1.0050 della CC abbinata

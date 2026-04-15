@@ -10,3 +10,5 @@
 - C8 (p. 18): "per ciascun punto di prelievo per il quale è stata eseguita una richiesta di nuova connessione, attivazione o disattivazione della fornitura"
 - C9 (p. 19): "entro 1 giorno lavorativo, aggiorna il RCU e notifica alla controparte commerciale la nuova attivazione"
 - C10 (p. 19): "Entro 3 giorni dalla notifica di attivazione del POD, ciascun UDD è tenuto ad aggiornare i dati costituenti il RCU di propria competenza"
+- C11 (p. 19): "In caso di assenza di abbinamento POD-Venditore, l’Utente del Dispacciamento, in qualità di CC sul punto fino al successivo abbinamento, effettua la trasmissione dei dati"
+- C12 (p. 19): "Nel caso in cui i dati non vengano inviati tramite il flusso VS2 la CC abbinata al punto è tenuta a inviare gli stessi tramite il flusso AE1.0050"

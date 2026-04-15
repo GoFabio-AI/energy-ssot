@@ -50,6 +50,7 @@ Raccogliere il minimo riusabile e source-backed su come il POD e i relativi dati
 - SRC-SII-EE-PRECHECK-SPEC-2019
 - SRC-SII-EE-CDT-SPEC-2020
 - SRC-SII-EE-POPOLAMENTO-RCU-PAGE
+- SRC-SII-EE-AOC-RCU-2025
 
 ## Fatti consolidati
 ### Base dati e accesso cliente
@@ -64,6 +65,8 @@ Raccogliere il minimo riusabile e source-backed su come il POD e i relativi dati
 - La specifica PK dettaglia che il venditore può interrogare l’associazione POD-cliente dopo la sottoscrizione del contratto, con tolleranza limitata sugli identificativi e con possibilità, in alcuni casi di maggior tutela, di integrare la richiesta con nome/cognome o ragione sociale.
 - La stessa specifica PK mostra che, quando l’anagrafica fiscale manca ma la congruenza è verificata, il SII può aggiornare il RCU e notificare l’integrazione al distributore tramite PK2.
 - Il RCU non è aggiornato con una scrittura generica: il portale SII elenca processi dedicati, tra cui VS, AE, SM/RT, DS, AV, VP, TDE e CP.
+- La specifica pubblica `Aggiornamento On Condition RCU` aggiunge la catena operativa post-esecuzione: dopo l'ammissibilità del flusso VS1 il SII aggiorna il RCU entro 1 giorno lavorativo e notifica la nuova attivazione alla controparte commerciale tramite `VS2.0200`.
+- Dopo la notifica di attivazione, l'UDD deve integrare entro 3 giorni i dati RCU di propria competenza tramite `VS2.0201`; se il flusso non viene inviato, la CC abbinata deve trasmettere gli stessi dati tramite `AE1.0050`.
 
 ### Minima anagrafica tecnica del POD
 - Lato operatore, la minima anagrafica tecnica estraibile con fonte ufficiale oggi consolidata comprende almeno: tipologia di misuratore, trattamento del punto ai sensi del TIS, data di messa a regime del misuratore 2G e stato di attivazione del POD.
@@ -109,6 +112,7 @@ Raccogliere il minimo riusabile e source-backed su come il POD e i relativi dati
 - `EXTRACTED/SRC-SII-EE-PRECHECK-SPEC-2019.extracted.md`
 - `EXTRACTED/SRC-SII-EE-CDT-SPEC-2020.extracted.md`
 - `EXTRACTED/SRC-SII-EE-POPOLAMENTO-RCU-PAGE.extracted.md`
+- `EXTRACTED/SRC-SII-EE-AOC-RCU-2025.extracted.md`
 - `EXTRACTED/SRC-ARERA-BOLLETTA-2025-PDF.extracted.md`
 - `EXTRACTED/SRC-ARERA-TIF-2025-PDF.extracted.md`
 - `EXTRACTED/SRC-ARERA-TIME-2024-PDF.extracted.md`
@@ -123,6 +127,8 @@ Raccogliere il minimo riusabile e source-backed su come il POD e i relativi dati
 - RULE-EE-RCU-001
 - RULE-EE-RCU-002
 - RULE-EE-RCU-003
+- RULE-EE-RCU-004
+- RULE-EE-RCU-005
 - RULE-EE-TIF-003
 - RULE-EE-TIME-003
 - RULE-EE-BOLL-001
