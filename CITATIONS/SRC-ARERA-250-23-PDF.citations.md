@@ -1,0 +1,15 @@
+# Citations - SRC-ARERA-250-23-PDF
+
+- C1: "l’onere di recesso anticipato possa trovare applicazione esclusivamente"
+- C2: "prezzo fisso"
+- C3: "durata determinata, o durata indeterminata con condizioni economiche di durata determinata"
+- C4: "può essere richiesto solamente con riferimento al primo periodo predeterminato in cui si applica il prezzo fisso"
+- C5: "non rientrano in tale casistica tutti i contratti che prevedono l’applicazione congiunta di un prezzo fisso ed un prezzo variabile"
+- C6: "può essere previsto solo fino alla prima scadenza delle condizioni economiche"
+- C7: "comporta la decadenza dell’eventuale applicazione di oneri di recesso anticipato"
+- C8: "somma massima di denaro complessivamente dovuta"
+- C9: "potrebbe essere ridotto in ragione della perdita economica diretta"
+- C10: "adeguare la somma di denaro richiesta all’effettiva perdita economica diretta"
+- C11: "l’assenza, già prevista in sede di consultazione, degli oneri di recesso anticipato dal computo della stima della spesa annua"
+- C12: "l’indicazione della presenza dell’eventuale onere di recesso anticipato"
+- C13: "specificamente approvato e sottoscritto dal cliente finale"

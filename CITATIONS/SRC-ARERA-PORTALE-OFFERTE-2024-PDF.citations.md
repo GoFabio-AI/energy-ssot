@@ -1,0 +1,17 @@
+# Citations - SRC-ARERA-PORTALE-OFFERTE-2024-PDF
+
+- C1: "Tutti i venditori sono tenuti a inserire nel Portale Offerte"
+- C2: "prima della loro immissione in commercio"
+- C3: "tutte le offerte generalizzate"
+- C4: "Sono escluse dalla pubblicazione nel Portale Offerte le offerte non generalizzate"
+- C5: "ordinato per livelli crescenti della spesa annua stimata"
+- C6: "linguaggio semplice, comprensibile e neutrale"
+- C7: "Sono in ogni caso vietati messaggi pubblicitari"
+- C8: "eventuali corrispettivi richiesti e delle relative condizioni di recesso"
+- C9: "indicazione della presenza dell’eventuale onere di recesso anticipato"
+- C10: "in modalità open data"
+- C11: "si considerano tutte le componenti di prezzo applicabili dal venditore"
+- C12: "Eventuali altri sconti non sono considerati ai fini della suddetta stima, ma sono rappresentati unicamente nella pagina di dettaglio"
+- C13: "In deroga a quanto previsto al presente Articolo 10"
+- C14: "le offerte che richiedono adattamenti di caratteristiche o di funzionalità del Portale Offerte ai fini del calcolo della spesa annua stimata"
+- C15: "sono pubblicate, nelle more dei predetti interventi, con modalità individuate dal Gestore"

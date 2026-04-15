@@ -1,0 +1,15 @@
+# Citations - SRC-ARERA-TIC-VIGENTE-2026-PDF
+
+- C1 (p. 22): "Tabella 1 - Contributi per la realizzazione di connessioni permanenti ordinarie in bassa tensione"
+- C2 (p. 22): "Anno 2026"
+- C3 (p. 22): "quota fissa [Euro]"; "209,62"
+- C4 (p. 22): "eccedenti la distanza di 200 metri ... fino a 700 metri [Euro]"; "105,08"
+- C5 (p. 22): "eccedenti la distanza di 700 metri ... fino a 1.200 metri [Euro]"; "209,62"
+- C6 (p. 22): "eccedenti la distanza di 1200 metri dalla cabina di riferimento [Euro]"; "419,24"
+- C7 (p. 22): "Per ogni kW di potenza messo a disposizione (Quota potenza) [Euro/kW]"; "78,81"
+- C8 (p. 22): "Tabella 2 – Contributi da applicare nei casi previsti dal comma 34.2 lettera a)"
+- C9 (p. 22): "Anno 2026"
+- C10 (p. 22): "Per ogni kW di potenza messo a disposizione (Quota potenza) [Euro/kW]"; "62,30"
+- C11 (p. 25): "Tabella 8 - Anticipo sui contributi per connessioni valutate a preventivo"
+- C12 (p. 25): "Anno 2026"
+- C13 (p. 25): "Anticipo sui contributi per connessioni valutate a preventivo [Euro]"; "100,00"

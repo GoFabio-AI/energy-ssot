@@ -1,0 +1,18 @@
+# Citations - SRC-ARERA-TIME-2024-PDF
+
+- C1: "Testo in vigore dal 1 gennaio 2024"
+- C2: "effettuare la rilevazione mensile delle misure di energia elettrica"
+- C3: "almeno una volta ogni quattro mesi"
+- C4: "per un periodo minimo di 5 anni"
+- C5: "effettuare un ulteriore tentativo di rilevazione al più tardi nel mese successivo"
+- C6: "comunicarne l’esito entro il terzo giorno lavorativo successivo"
+- C7: "l’autolettura si intende comunque validata"
+- C8: "L’autolettura validata ... è equiparata a un dato di misura effettivo"
+- C9: "con frequenza giornaliera"
+- C10: "entro il giorno 20 (venti) del mese successivo"
+- C11: "entro il giorno 20 (venti) del mese successivo a quello in cui è stato effettuato il tentativo di rilevazione"
+- C12: "indica se i dati di misura si riferiscono a valori effettivi, autoletture o a valori stimati"
+- C13: "dovranno essere utilizzati esclusivamente dati di misura effettivi, comprese le autoletture"
+- C14: "entro il giorno 20 (venti) di ogni mese"
+- C15: "entro il giorno 20 (venti) del sessantunesimo mese successivo a quello di competenza"
+- C16: "con riferimento alle misure relative ad analoghi periodi o condizioni, tenendo conto di ogni altro elemento idoneo"

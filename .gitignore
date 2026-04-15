@@ -1,0 +1,7 @@
+.tmp-bolletta/
+.tmp-ctr/
+.tmp-libero-gap/
+.tmp-morosita/
+*.html
+*.pdf
+.DS_Store
