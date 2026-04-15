@@ -13,6 +13,7 @@ Entry point consigliati:
 - [COMPLETION-PACKAGE-DOMESTICO-LUCE-2026-04-15.md](COMPLETION-PACKAGE-DOMESTICO-LUCE-2026-04-15.md)
 - [MACRO/domestico-luce-master-2026-04-15.md](MACRO/domestico-luce-master-2026-04-15.md)
 - [MACRO/domestico-luce-capability-map.md](MACRO/domestico-luce-capability-map.md)
+- [MACRO/domestico-luce-boundary-vs-flussi.md](MACRO/domestico-luce-boundary-vs-flussi.md)
 - [MACRO/domestico-luce-handoff-fatturazione-ai-dev.md](MACRO/domestico-luce-handoff-fatturazione-ai-dev.md)
 
 ## Come leggere la repo
@@ -43,6 +44,12 @@ Entry point consigliati:
 - fare handoff verso coding agent con file e vincoli chiari
 - mantenere separati fatti normativi, interpretazione minima e decisioni prodotto
 - creare una base verificabile per billing, care, operations, pricing e compliance
+
+## Cosa il repo non pretende ancora di essere
+- non è ancora un catalogo esaustivo di tutti i flussi operativi di settore
+- non è ancora una process architecture completa `ERP-ready`
+- non è ancora una raccolta completa di BPMN, state machine o mapping profondo di tutti i messaggi `SII`
+- per questo confine vedi `MACRO/domestico-luce-boundary-vs-flussi.md`
 
 ## Standard modello
 Per questo workstream usare GPT-5.4 con reasoning xhigh.

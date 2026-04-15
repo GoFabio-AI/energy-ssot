@@ -51,6 +51,7 @@ Questi punti risultano nel repo come manutenzione evolutiva o packaging ulterior
 ### Documenti di riferimento trasversale
 - master doc: `MACRO/domestico-luce-master-2026-04-15.md`
 - capability map: `MACRO/domestico-luce-capability-map.md`
+- boundary note: `MACRO/domestico-luce-boundary-vs-flussi.md`
 - roadmap di copertura: `ROADMAP-DOMESTICO-LUCE-2026-04-15.md`
 - registro stato operativo: `INDEX.md`
 - registro questioni: `OPEN-QUESTIONS.md`
@@ -75,6 +76,7 @@ Questi punti risultano nel repo come manutenzione evolutiva o packaging ulterior
 ### Macro docs presenti
 - `MACRO/domestico-luce-master-2026-04-15.md`
 - `MACRO/domestico-luce-capability-map.md`
+- `MACRO/domestico-luce-boundary-vs-flussi.md`
 - `MACRO/domestico-luce-handoff-fatturazione-ai-dev.md`
 - `MACRO/domestico-luce-prezzi.md`
 - `MACRO/domestico-luce-fiscalita.md`
@@ -88,7 +90,7 @@ Questi punti risultano nel repo come manutenzione evolutiva o packaging ulterior
 
 ### Inventory numerico del repo al 2026-04-15
 - domain files: `15`
-- macro docs tematici: `12`
+- macro docs tematici: `13`
 - rules: `185`
 - citation files: `107`
 - extracted files: `109`
